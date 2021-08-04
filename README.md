@@ -1,5 +1,5 @@
 # purchasing-power-of-rupee
-In this repository I explain how to draw the famous charts of the loss of purchasing power of the Rupee or any other currency in R language.
+In this repository I explain how to plot the famous graph of the loss of purchasing power of Indian Rupee or any other currency in R language.
 
 ![alt text](https://github.com/tahoor21/purchasing-power-of-rupee/blob/main/plot.png?raw=true)
 
