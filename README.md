@@ -61,3 +61,6 @@ graph <- ggplot(df, aes(x = Date, y = PP)) +
 
 graph
 ```
+
+# source of the data
+- Consumer Price Index: All Items for India, Organization for Economic Co-operation and Development. Link: https://fred.stlouisfed.org/series/INDCPIALLMINMEI#
